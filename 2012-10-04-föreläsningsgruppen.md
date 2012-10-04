@@ -23,8 +23,9 @@ Saker vi vill ha föreläsningar om:
 - SCI
 
 Pengar:
-    -Kåren
-    -Institutionen
+
+-Kåren
+-Institutionen
 
 Prel datum första förel: Tors 6:e Dec
 
