@@ -1,6 +1,7 @@
 MURs Föreläsningsgrupp - 4:e Oktober 2012
 ================================================================================
 
+Saker vi vill ha föreläsningar om:
 - Bank
     - Analytiker
     - Riksbanken
