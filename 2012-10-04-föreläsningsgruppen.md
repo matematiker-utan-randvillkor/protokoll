@@ -27,6 +27,7 @@ Pengar:
     -Institutionen
 
 Prel datum första förel: Tors 6:e Dec
+
 Nästa möte; 18:00 Ons 10:e
 
 Sekreterare: Simon Schmidt
