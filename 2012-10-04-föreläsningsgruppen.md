@@ -21,6 +21,10 @@ MURs Föreläsningsgrupp - 4:e Oktober 2012
 - AI
 - SCI
 
+Pengar:
+    -Kåren
+    -Institutionen
+
 Prel datum första förel: Tors 6:e Dec
 Nästa möte; 18:00 Ons 10:e
 
